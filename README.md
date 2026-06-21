@@ -2,17 +2,16 @@
 
 🎓 BCA Student (2024–2027)
 
-💻 Aspiring Data Analyst & Web Development
+💻 Aspiring Data Analyst | Web Development Enthusiast
 
-🛠 Skills:
-HTML • CSS • JavaScript • Python • SQL • Power BI
+🛠 Skills & Tools
 
-📫 Email: ...
-thekushwahadeepak@gmail.com
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
 
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkushwaha0422&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkushwaha0422&layout=compact&theme=tokyonight)
+
+📫 Email: thekushwahadeepak@gmail.com
