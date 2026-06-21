@@ -11,5 +11,6 @@ I am a hardworking and motivated BCA student with a strong interest in Data Anal
 
 🎯 Career Goal
 I believe in continuous learning, problem-solving, and delivering quality work. My goal is to grow as a Data Analyst and Web Developer, contribute to real-world projects, and create solutions that add value to organizations 🚀
+
 📫 Contact:
 thekushwahadeepak@gmail.com
