@@ -2,7 +2,7 @@
 
 🎓 BCA Student (2024–2027)
 
-💻 Aspiring Data Analyst & Web Developer
+💻 Aspiring Data Analyst & Web Development
 
 🛠 Skills:
 HTML • CSS • JavaScript • Python • SQL • Power BI
