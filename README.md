@@ -8,7 +8,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
 
-
 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkushwaha0422&show_icons=true&theme=tokyonight)
