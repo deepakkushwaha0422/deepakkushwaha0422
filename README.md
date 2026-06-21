@@ -12,6 +12,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkushwaha0422&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=deepakkushwaha0422&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkushwaha0422&layout=compact&theme=tokyonight)
 
 📫 Email: thekushwahadeepak@gmail.com
